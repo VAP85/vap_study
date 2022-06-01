@@ -1,0 +1,32 @@
+
+// var person_all = response_Data.person
+// var person_element = response_Data.person.u_name
+// console.log("TEST =",person_all);
+// console.log("TEST =",person_element);
+
+
+// for (i=0; i<3; i++)
+// {
+// console.log("ELEMENT № " + person_element[i])
+// }
+
+
+// // console.log(person_element)                      // проверить как выводится данный парметр в консоль
+// // // цикл для свойста u_name
+// // person_element.forEach((element, index) =>
+// // {
+// // console.log(element)
+// // }
+// // )
+
+
+
+
+// // var u_name_param = response_Data.person.u_name // переменная для массива значений u_name
+// // console.log(u_name_param)                      // проверить как выводится данный парметр в консоль
+// // // цикл для свойста u_name
+// // u_name_param.forEach((element, index) =>
+// // {
+// // console.log(element)
+// // }
+// // )
